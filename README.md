@@ -1,38 +1,33 @@
-# **Personal Portfolio Website**
+# **Full Stack Dev Portfolio**
 
-Welcome to the repository for my personal portfolio website! This project serves as a dynamic showcase of my skills, educational background, and experience as a **Full Stack Developer**.
+Welcome to my professional portfolio. This project showcases my journey as a **Software Engineer**, highlighting my expertise in the **MERN stack**, **Python**, and **Modern Web Technologies**.
 
-It is built with pure HTML and CSS to ensure lightweight performance and clean, responsive design.
+## 👨‍💻 About Me
 
-## 
+- 🎓 **B.Tech in Computer Science & Engineering** (2021 - 2025) from Asansol Engineering College.
+- 📍 Currently based in **Kolkata, West Bengal**.
+- 🚀 **Software Engineering Intern** at **Nullclass EdTech**, building scalable web solutions like a full-stack YouTube clone.
 
-##  **Features**
+## 🛠️ Tech Stack
 
-* **Modern Dark Theme:** A visually appealing and easy-to-read interface using a dark color palette (\#1e1e1e, \#2a2a2a) and highlight accents (\#FFBF00).  
-* **Responsive Layout:** The design uses CSS Grid and Flexbox for adaptability, ensuring an optimal viewing experience on all devices (mobile, tablet, and desktop).  
-* **Sticky Sidebar:** On larger screens, the profile, contact details, and social links remain sticky on the side for constant accessibility.  
-* **Skills Showcase:** A dedicated section utilizing simple icon images to highlight core technologies: **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **React**, and **Git & GitHub**.  
-* **Education Timeline:** A clean, CSS-driven visual timeline to present academic qualifications.  
-* **Portfolio Gallery:** Highlights key projects with detailed cards, including:  
-  * **React-Python-Bestfriends-Webapp:** Demonstrates full-stack integration (React frontend, Python backend).  
-  * **Mental Health Prediction Model:** Showcases Machine Learning (ML) and Python skills.
+- **Frontend:** React, TypeScript, Material UI (MUI), Chakra UI, AOS (Animations).
+- **Backend:** Node.js, Express.js, Python.
+- **Database:** MongoDB.
+- **Build Tools:** Vite, ESLint, Git.
 
-## 
+## 🚀 Key Projects
 
-## **Technologies Used**
+### 🤖 [Python Voice Assistant](https://github.com/starJeet000)
 
-This project relies purely on core web technologies:
+A Python-based, push-to-talk virtual assistant utilizing advanced API integrations for voice-to-command automation.
 
-* **HTML5** (Structure)  
-* **CSS3** (Styling, Layout, and Responsiveness)  
-* **Remixicon** (Used for social media icons)  
-* **Simple Icons** (Used for the technology skills section)
+### 🛡️ [Spam Comment Detection API](https://github.com/starJeet000)
 
-## 
+A specialized API designed to filter and detect spam in user comments using the Hugging Face API and machine learning models.
 
-## **Getting Started**
+### ☕ [Cafe Finder](https://github.com/starJeet000)
 
-Follow these steps to clone this repository and run the portfolio locally on your machine.
+An interactive web application utilizing the Google Maps Platform to help users locate nearby cafes instantly.
 
 ### Many More.....
 
