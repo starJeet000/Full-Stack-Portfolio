@@ -10,10 +10,10 @@ export const personalInfo = {
 
 export const experience = [
   {
-    company: "Nullclass",
+    company: "Nullclass Ed Tech Pvt. Ltd.",
     role: "Software Engineering Intern",
-    date: "Current",
-    description: "Developing a scalable MERN-based YouTube clone, implementing core features like user authentication, video streaming, and real-time comment sections."
+    date: "Feb-March",
+    description: "Developed a scalable MERN-based YouTube clone, implementing core features like user authentication, video streaming, real-time comment sections, integrated Razorpay payment gateway and WebRTC For Real-Time Video Streaming."
   }
 ];
 
